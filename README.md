@@ -15,17 +15,12 @@
 - 📫 **Postman**
 - 🐧 **Linux**
 - 🖥️ **Windows**
-- 🐬 **MariaDB**
-- 🐋 **MySQL**
-- 🟧 **Oracle**
+- 🐬 **SQL**
 - 🐙 **Git**
-- 🔧 **HTML**
-- 🎨 **CSS**
+- 🔧 **HTML/CSS**
 - 🎨 **Figma**
 - 🖥️ **JetBrains Collection**
 - 💻 **VSCode**
-- 🖥️ **VMware**
-- 🌐 **Cisco Packet Tracer**
 
 ---
 
@@ -40,6 +35,3 @@
 
 "N'oubliez pas : **Avec un grand pouvoir viennent de grandes responsabilités**" - Bob Coggeshall et Cliff Spencer, créateur de la commande **sudo** 🐧
 
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hitoyu22&show_icons=true&theme=radical)
