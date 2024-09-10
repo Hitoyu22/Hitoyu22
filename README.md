@@ -10,24 +10,22 @@
 ### 🛠️ Compétences et Logiciels Maîtrisés
 
 - 🐘 **PHP**
-- 🌐 **JS**
+- 🌐 **JS et TS**
 - ☕ **Java**
+- ⚛️ **React**
 - 📫 **Postman**
-- 🐧 **Linux**
-- 🖥️ **Windows**
 - 🐬 **SQL**
 - 🐙 **Git**
-- 🔧 **HTML/CSS**
 - 🎨 **Figma**
-- 🖥️ **JetBrains Collection**
-- 💻 **VSCode**
+- 
+
 
 ---
 
 ### 🚀 Mes Projets
 
 - **Landtales**: Un projet captivant sur lequel je travaille actuellement, que vous pouvez découvrir [ici](https://github.com/Hitoyu22/Landtales).
-- **Application React**
+- **Application React** (notamment avec la librairie Shadcn UI) et un **serveur ExpressJS**
 - **API Symfony**
 - **Quelques projets en Java, C, JS et Python (à venir).
 
