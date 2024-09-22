@@ -3,7 +3,7 @@
 
 - 🌱 Je travaille actuellement sur mon Projet Annuel [Landtales](https://github.com/Hitoyu22/Landtales)
 - 🧑‍💻 Passionné par le développement de **API avec Symfony**
-- 🎓 Explorant des projets scolaires en **C, Python, PHP, et JS**
+- 🎓 Explorant des projets scolaires en **C, Python, PHP, et TS et Dart**
 
 ---
 
