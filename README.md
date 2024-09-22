@@ -1,5 +1,5 @@
 <h1 align="center">Salut👋, je suis Rémy THIBAUT</h1>
-<h3 align="center">Étudiant en première année à l'ESGi, campus Paris</h3>
+<h3 align="center">Étudiant en deuxième année à l'ESGi, campus Paris</h3>
 
 - 🌱 Je travaille actuellement sur mon Projet Annuel [Landtales](https://github.com/Hitoyu22/Landtales)
 - 🧑‍💻 Passionné par le développement de **API avec Symfony**
