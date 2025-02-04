@@ -21,6 +21,7 @@
 ### 🚀 Mes Projets
 
 - **Landtales** : Un projet innovant que je développe actuellement, découvrez-le [ici](https://github.com/Hitoyu22/Landtales).
+- **Landtales 2** : Un projet final de Langage C utilisant les librairies SDL2 et FFMPEG. Découvrez-le [ici](https://github.com/Hitoyu22/Landtales-2)
 - **Application React** utilisant **Shadcn UI** et un **serveur ExpressJS** pour une gestion fluide des requêtes et de l'interface.
 - **API Symfony** : Développement d'API robustes avec Symfony pour des projets professionnels.
 - **Projets en C** : Développement de projets en C, en particulier des applications basées sur la gestion mémoire et l'optimisation des performances.
