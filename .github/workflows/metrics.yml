@@ -1,0 +1,32 @@
+name: Metrics
+on:
+  schedule: [{ cron: "0 4 * * *" }]
+  workflow_dispatch:
+  push: { branches: [main] }
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Isocalendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          config_timezone: Europe/Paris
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+      - name: Topics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.topics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          config_timezone: Europe/Paris
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_topics_limit: 24
